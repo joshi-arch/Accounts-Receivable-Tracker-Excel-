@@ -2,7 +2,7 @@
 
 An Excel model that tracks 100 customer invoices from issue to payment, applies a 50% advance deposit, monitors credit terms, charges tiered late fees on overdue balances, and summarises everything on a dashboard.
 
-> **Snapshot date:** all figures below are as at **20 October 2026** (the model uses `TODAY()`, so numbers move when the file is reopened on a later date).
+><img width="1182" height="780" alt="Screenshot 2026-10-20 162935" src="https://github.com/user-attachments/assets/222f5a6a-b5f9-4a5e-9aef-f2c6bf99184d" />
 
 ---
 
